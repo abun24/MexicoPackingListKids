@@ -1,2 +1,2 @@
 # MexicoPackingListKids
-Get your packing Dond
+Get your packing did
